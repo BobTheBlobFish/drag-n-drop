@@ -9,7 +9,6 @@ This project is a React Flow-based block editor built with Next.js and TypeScrip
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/BobTheBlobFish/drag-n-drop.git
-   cd my-app
    ```
 2. **Install dependencies:**
    ```bash
