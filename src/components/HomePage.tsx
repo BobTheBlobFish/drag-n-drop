@@ -43,7 +43,7 @@ export default function HomePage() {
     event.dataTransfer.effectAllowed = "move";
   };
 
-  const handleNodeContextMenu = (_event: React.MouseEvent, _node: Node) => {};
+  const handleNodeContextMenu = () => {};
 
   return (
     <ReactFlowProvider>

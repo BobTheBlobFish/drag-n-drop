@@ -7,7 +7,6 @@ import ReactFlow, {
   Connection,
   Edge,
   Node,
-  XYPosition,
   applyNodeChanges,
   applyEdgeChanges,
   NodeChange,
